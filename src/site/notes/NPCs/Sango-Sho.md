@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/sango-sho/","created":"2025-10-25T20:59:57.445-04:00","updated":"2025-10-25T21:23:23.792-04:00"}
+{"dg-publish":true,"permalink":"/np-cs/sango-sho/","created":"2025-10-25T20:59:57.445-04:00","updated":"2025-10-25T21:44:58.101-04:00"}
 ---
 
 
-[Sango-Sho](Cities)
+[[Realms of Dalrrin/Cities\|Cities]]
 
 Kentoro:
 ![Hero screenshot (23).png](/img/user/Resources/Hero%20screenshot%20(23).png)
@@ -20,4 +20,4 @@ Avery Kastle:
 Myerin Kastle:
 ![IMG_0686.png](/img/user/Resources/IMG_0686.png)
 
-[Maps](Map of Dalrrin)
+[[Maps/Map of Dalrrin\|Map of Dalrrin]]

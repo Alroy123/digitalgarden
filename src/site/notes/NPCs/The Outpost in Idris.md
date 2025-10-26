@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/the-outpost-in-idris/","created":"2025-10-25T20:56:51.050-04:00","updated":"2025-10-25T20:59:04.730-04:00"}
+{"dg-publish":true,"permalink":"/np-cs/the-outpost-in-idris/","created":"2025-10-25T20:56:51.050-04:00","updated":"2025-10-25T21:34:49.648-04:00"}
 ---
 
 
+[[Realms of Dalrrin/Cities\|Cities]]
 
 Mere Akman:
 ![IMG_0705.png](/img/user/Resources/IMG_0705.png)
@@ -15,3 +16,5 @@ Thadrake Othrum:
 
 Karr:
 ![IMG_0708.png](/img/user/Resources/IMG_0708.png)
+
+[[Maps/Map of Dalrrin\|Map of Dalrrin]]
