@@ -7,4 +7,4 @@ In a world where the Feywild, Shadowfell and the Material planes have merged int
 Let's Meet our Heroes:
 
 
-![Ivani.png](/img/user/Ivani.png)
+![Ivani.png](/img/user/Resources/Ivani.png)
