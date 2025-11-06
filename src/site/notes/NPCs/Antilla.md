@@ -17,12 +17,12 @@ Nicholas Hastwyck
 ![Hero screenshot (12).png](/img/user/Resources/Hero%20screenshot%20(12).png)
 
 Screek:
-![Hero screenshot (41).png](/img/user/Hero%20screenshot%20(41).png)
+![Hero screenshot (41).png](/img/user/Resources/Hero%20screenshot%20(41).png)
 
 Kikyo: 
 ![Hero screenshot (21).png](/img/user/Resources/Hero%20screenshot%20(21).png)
 
 Arro:
-![Hero screenshot (40).png](/img/user/Hero%20screenshot%20(40).png)
+![Hero screenshot (40).png](/img/user/Resources/Hero%20screenshot%20(40).png)
 
 [[Maps/Map of Dalrrin\|Map of Dalrrin]]
