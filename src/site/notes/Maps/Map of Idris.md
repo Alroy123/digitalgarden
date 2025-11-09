@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/map-of-idris/","created":"2025-10-26T13:55:42.742-04:00","updated":"2025-10-26T14:36:26.138-04:00"}
+{"dg-publish":true,"permalink":"/maps/map-of-idris/","created":"2025-10-26T13:55:42.742-04:00","updated":"2025-11-08T10:22:55.566-05:00"}
 ---
 
 
@@ -13,5 +13,5 @@
 **6.** Shepards Gate 
 **7.** Slaughterstone Square
 **8.** Chapel of Saint Percival
-**9.** Nordabelle's Institute of the arcanely gifted
+**9.** Nordabelle's Institute of the Arcanely Gifted
 **10.** Temple of Nessus
