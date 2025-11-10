@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/the-four-horsemen-of-agnoxaline-the-world-eater/","created":"2025-11-02T10:29:11.332-05:00","updated":"2025-11-02T10:40:05.863-05:00"}
+{"dg-publish":true,"permalink":"/np-cs/the-four-horsemen-of-agnoxaline-the-world-eater/","created":"2025-11-10T16:13:00.374-06:00","updated":"2025-11-10T16:17:41.784-06:00"}
 ---
 
 
@@ -14,3 +14,5 @@ Rider of Famine:
 
 Rider of Death:
 ![Hero screenshot (43).png](/img/user/Resources/Hero%20screenshot%20(43).png)
+
+[[Maps/Map of Dalrrin\|Map of Dalrrin]]
