@@ -1,10 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/fallen-kingdom-of-idris/","created":"2025-10-25T22:16:15.643-04:00","updated":"2025-11-02T21:43:08.186-05:00"}
+{"dg-publish":true,"permalink":"/np-cs/fallen-kingdom-of-idris/","created":"2025-11-10T16:13:00.339-06:00","updated":"2025-11-11T18:21:49.148-06:00"}
 ---
 
 **Followers of the Eclipse Paragon**
 Zaddik Tinsley:
 ![Hero screenshot (39).png](/img/user/Resources/Hero%20screenshot%20(39).png)
+
+Gideon Halls:
+![Hero screenshot.png](/img/user/Hero%20screenshot.png)
 
 King Gawain:
 ![Hero screenshot (33).png](/img/user/Resources/Hero%20screenshot%20(33).png)
@@ -39,7 +42,7 @@ Knight-Captain Elliot Kensworth:
 ![Hero screenshot (49).png](/img/user/Resources/Hero%20screenshot%20(49).png)
 
 **The Kingsmen:**
-Adlyne Drexal:
+Addlus Drexal and Fang:
 ![Hero screenshot (52).png](/img/user/Resources/Hero%20screenshot%20(52).png)
 
 Phoebe Voss:
@@ -51,3 +54,10 @@ Queen of Thieves:
 
 Cammy "Shadowed Hand":
 ![Hero screenshot (46).png](/img/user/Resources/Hero%20screenshot%20(46).png)
+
+**Other NPCs:**
+Kincade Glory:
+![Hero screenshot (2).png](/img/user/Hero%20screenshot%20(2).png)
+
+Saul Brandy:
+![Hero screenshot (1).png](/img/user/Hero%20screenshot%20(1).png)
