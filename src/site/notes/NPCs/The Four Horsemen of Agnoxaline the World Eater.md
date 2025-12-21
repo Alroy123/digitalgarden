@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/the-four-horsemen-of-agnoxaline-the-world-eater/","created":"2025-11-10T16:13:00.374-06:00","updated":"2025-11-10T16:17:41.784-06:00"}
+{"dg-publish":true,"permalink":"/np-cs/the-four-horsemen-of-agnoxaline-the-world-eater/","created":"2025-11-10T17:13:00.374-05:00","updated":"2025-11-10T17:17:41.784-05:00"}
 ---
 
 

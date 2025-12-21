@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-testaments-of-creation/book-3-the-mortal-flame/","created":"2025-11-09T15:26:52.363-05:00","updated":"2025-11-09T19:13:42.556-05:00"}
+{"dg-publish":true,"permalink":"/the-testaments-of-creation/book-3-the-mortal-flame/","created":"2025-11-10T17:13:05.434-05:00","updated":"2025-11-09T20:13:44.000-05:00"}
 ---
 
 

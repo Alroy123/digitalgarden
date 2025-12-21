@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-of-the-realm/history-of-the-dalrrin/","created":"2025-11-02T15:12:32.837-05:00","updated":"2025-11-02T16:26:20.239-05:00"}
+{"dg-publish":true,"permalink":"/history-of-the-realm/history-of-the-dalrrin/","created":"2025-11-10T17:13:00.252-05:00","updated":"2025-11-02T17:26:22.000-05:00"}
 ---
 
 [[Maps/Map of Dalrrin\|Map of Dalrrin]]/ [[Home/Welcome to Camerinthious\|Welcome to Camerinthious]]

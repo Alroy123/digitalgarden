@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities-of-camerinthious/deities/","created":"2025-11-08T13:56:08.229-05:00","updated":"2025-11-09T17:03:47.478-05:00"}
+{"dg-publish":true,"permalink":"/deities-of-camerinthious/deities/","created":"2025-11-10T17:13:00.233-05:00","updated":"2025-11-09T18:03:48.000-05:00"}
 ---
 
 

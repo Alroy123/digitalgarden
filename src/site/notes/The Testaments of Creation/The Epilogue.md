@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-testaments-of-creation/the-epilogue/","created":"2025-11-09T16:43:20.790-05:00","updated":"2025-11-09T19:14:15.366-05:00"}
+{"dg-publish":true,"permalink":"/the-testaments-of-creation/the-epilogue/","created":"2025-11-10T17:13:05.446-05:00","updated":"2025-11-09T20:14:16.000-05:00"}
 ---
 
 

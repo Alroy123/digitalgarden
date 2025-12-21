@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-testaments-of-creation/book-5-the-age-of-silence/","created":"2025-11-09T16:34:09.643-05:00","updated":"2025-11-09T19:14:06.938-05:00"}
+{"dg-publish":true,"permalink":"/the-testaments-of-creation/book-5-the-age-of-silence/","created":"2025-11-10T17:13:05.446-05:00","updated":"2025-11-09T20:14:08.000-05:00"}
 ---
 
 

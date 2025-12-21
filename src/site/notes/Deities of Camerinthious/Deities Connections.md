@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities-of-camerinthious/deities-connections/","created":"2025-11-08T13:56:08.229-05:00","updated":"2025-11-08T23:53:57.998-05:00"}
+{"dg-publish":true,"permalink":"/deities-of-camerinthious/deities-connections/","created":"2025-11-10T17:13:00.213-05:00","updated":"2025-11-09T00:53:58.000-05:00"}
 ---
 
 THE PRIME THREE

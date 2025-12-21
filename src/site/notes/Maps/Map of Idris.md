@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/map-of-idris/","created":"2025-10-26T13:55:42.742-04:00","updated":"2025-11-08T10:22:55.566-05:00"}
+{"dg-publish":true,"permalink":"/maps/map-of-idris/","created":"2025-11-10T17:13:00.324-05:00","updated":"2025-11-08T11:22:56.000-05:00"}
 ---
 
 

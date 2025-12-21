@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-testaments-of-creation/book-4-the-fall-of-light/","created":"2025-11-09T15:16:22.396-05:00","updated":"2025-11-09T19:13:53.413-05:00"}
+{"dg-publish":true,"permalink":"/the-testaments-of-creation/book-4-the-fall-of-light/","created":"2025-11-10T17:13:05.446-05:00","updated":"2025-11-09T20:13:54.000-05:00"}
 ---
 
 

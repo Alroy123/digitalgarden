@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-testaments-of-creation/book-1-the-birth-of-the-dawn/","created":"2025-11-09T14:33:18.832-05:00","updated":"2025-11-09T19:13:16.483-05:00"}
+{"dg-publish":true,"permalink":"/the-testaments-of-creation/book-1-the-birth-of-the-dawn/","created":"2025-11-10T17:13:05.414-05:00","updated":"2025-11-09T20:13:18.000-05:00"}
 ---
 
 

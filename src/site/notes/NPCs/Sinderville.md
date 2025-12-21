@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/sinderville/","created":"2025-10-26T15:23:22.524-04:00","updated":"2025-10-26T16:07:30.098-04:00"}
+{"dg-publish":true,"permalink":"/np-cs/sinderville/","created":"2025-11-10T17:13:00.371-05:00","updated":"2025-10-26T17:07:32.000-04:00"}
 ---
 
 

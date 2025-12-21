@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-testaments-of-creation/book-2-the-children-of-dawn/","created":"2025-11-09T14:58:01.380-05:00","updated":"2025-11-09T19:13:28.569-05:00"}
+{"dg-publish":true,"permalink":"/the-testaments-of-creation/book-2-the-children-of-dawn/","created":"2025-11-10T17:13:05.434-05:00","updated":"2025-11-09T20:13:30.000-05:00"}
 ---
 
 

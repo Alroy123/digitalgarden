@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/the-outpost-in-idris/","created":"2025-10-25T20:56:51.050-04:00","updated":"2025-10-25T21:34:49.648-04:00"}
+{"dg-publish":true,"permalink":"/np-cs/the-outpost-in-idris/","created":"2025-11-10T17:13:00.374-05:00","updated":"2025-10-25T22:34:50.000-04:00"}
 ---
 
 

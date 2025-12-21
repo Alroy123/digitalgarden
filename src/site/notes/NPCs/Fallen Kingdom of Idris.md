@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/fallen-kingdom-of-idris/","created":"2025-11-10T16:13:00.339-06:00","updated":"2025-11-11T18:21:49.148-06:00"}
+{"dg-publish":true,"permalink":"/np-cs/fallen-kingdom-of-idris/","created":"2025-11-10T17:13:00.339-05:00","updated":"2025-11-11T19:29:37.768-05:00"}
 ---
 
 **Followers of the Eclipse Paragon**
 Zaddik Tinsley:
 ![Hero screenshot (39).png](/img/user/Resources/Hero%20screenshot%20(39).png)
 
-Gideon Halls:
-![Hero screenshot.png](/img/user/Hero%20screenshot.png)
+Gideon Tallweight:
+![Hero screenshot.png](/img/user/Resources/Hero%20screenshot.png)
 
 King Gawain:
 ![Hero screenshot (33).png](/img/user/Resources/Hero%20screenshot%20(33).png)
@@ -57,7 +57,7 @@ Cammy "Shadowed Hand":
 
 **Other NPCs:**
 Kincade Glory:
-![Hero screenshot (2).png](/img/user/Hero%20screenshot%20(2).png)
+![Hero screenshot (2).png](/img/user/Resources/Hero%20screenshot%20(2).png)
 
 Saul Brandy:
-![Hero screenshot (1).png](/img/user/Hero%20screenshot%20(1).png)
+![Hero screenshot (1).png](/img/user/Resources/Hero%20screenshot%20(1).png)
