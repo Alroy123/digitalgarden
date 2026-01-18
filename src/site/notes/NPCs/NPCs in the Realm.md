@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/np-cs-in-the-realm/","created":"2025-11-10T17:13:00.339-05:00","updated":"2025-10-25T22:35:42.000-04:00"}
+{"dg-publish":true,"permalink":"/np-cs/np-cs-in-the-realm/","created":"2025-11-10T17:13:00.339-05:00","updated":"2026-01-18T13:59:05.681-05:00"}
 ---
 
 
@@ -31,4 +31,4 @@ Ashburn Longclaw (Blue Stag):
 ![Hero screenshot (25).png](/img/user/Resources/Hero%20screenshot%20(25).png)
 
 Shallima: 
-![Hero screenshot (5).png](/img/user/Resources/Hero%20screenshot%20(5).png)
+![Shallima.png](/img/user/Resources/Shallima.png)
