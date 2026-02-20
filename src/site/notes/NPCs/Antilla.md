@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/antilla/","created":"2025-11-10T17:13:00.327-05:00","updated":"2025-11-02T10:10:20.000-05:00"}
+{"dg-publish":true,"permalink":"/np-cs/antilla/","created":"2025-11-10T17:13:00.327-05:00","updated":"2026-02-19T21:50:26.031-05:00"}
 ---
 
 
@@ -18,6 +18,27 @@ Nicholas Hastwyck
 
 Screek:
 ![Hero screenshot (41).png](/img/user/Resources/Hero%20screenshot%20(41).png)
+
+Marybeth Brightburn:
+![Marybeth.png](/img/user/Resources/Marybeth.png)
+
+Willie Akman:
+![Willie.png](/img/user/Resources/Willie.png)
+
+Ezekiel *aka* Zeke Bones:
+![Zeke.png](/img/user/Templates/Zeke.png)
+
+Gunther:
+![Gunther.png](/img/user/Resources/Gunther.png)
+
+Herra Mangul:
+![Herra.png](/img/user/Resources/Herra.png)
+
+Romein O’Kearens:
+![Romein.png](/img/user/Resources/Romein.png)
+
+
+
 
 Kikyo: 
 ![Hero screenshot (21).png](/img/user/Resources/Hero%20screenshot%20(21).png)
