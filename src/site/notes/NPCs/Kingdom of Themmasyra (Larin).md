@@ -4,7 +4,7 @@
 
 
 King Borotus:
-![King Borotus.png](/img/user/King%20Borotus.png)
+![King Borotus.png](/img/user/Resources/King%20Borotus.png)
 
 Commander Hezmien:
-![Commander Hezmien.png](/img/user/Commander%20Hezmien.png)
+![Commander Hezmien.png](/img/user/Resources/Commander%20Hezmien.png)

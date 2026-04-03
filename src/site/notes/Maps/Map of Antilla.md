@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/maps/map-of-antilla/","created":"2026-02-16T21:46:37.869-05:00","updated":"2026-02-16T22:42:06.611-05:00"}
 ---
 
-![Map_of_Antilla.jpg](/img/user/Map_of_Antilla.jpg)
+![Map_of_Antilla.jpg](/img/user/Resources/Map_of_Antilla.jpg)
 
 1. Sylvar's Estate (Quarry's Den)
 2. Hastwyck's Estate (Fang Tooth)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/sinderville/","created":"2025-11-10T17:13:00.371-05:00","updated":"2025-10-26T17:07:32.000-04:00"}
+{"dg-publish":true,"permalink":"/np-cs/sinderville/","created":"2025-11-10T17:13:00.371-05:00","updated":"2026-04-03T17:43:17.378-04:00"}
 ---
 
 
@@ -10,5 +10,3 @@ Orik:
 Yen:
   ![Hero screenshot (32).png](/img/user/Resources/Hero%20screenshot%20(32).png)
 
-Uther Blightweed: 
-![Hero screenshot (30).png](/img/user/Resources/Hero%20screenshot%20(30).png)

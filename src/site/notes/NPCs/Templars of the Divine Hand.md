@@ -10,4 +10,4 @@ Knight-Captain Elliot Kensworth:
 ![Hero screenshot (49).png](/img/user/Resources/Hero%20screenshot%20(49).png)
 
 Diego Foster:
-![Diego Foster.png](/img/user/Diego%20Foster.png)
+![Diego Foster.png](/img/user/Resources/Diego%20Foster.png)

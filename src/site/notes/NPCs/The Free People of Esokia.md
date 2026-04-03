@@ -4,7 +4,7 @@
 
 
 Holldor The Strong:
-![Holldor The Strong.png](/img/user/Holldor%20The%20Strong.png)
+![Holldor The Strong.png](/img/user/Resources/Holldor%20The%20Strong.png)
 
 Sabin The Conqueror:
-![Sabin The Conqueror.png](/img/user/Sabin%20The%20Conqueror.png)
+![Sabin The Conqueror.png](/img/user/Resources/Sabin%20The%20Conqueror.png)
