@@ -4,7 +4,7 @@
 
 
 **King Grandeir Manes**
-![King Grandeir Manes.png](/img/user/King%20Grandeir%20Manes.png)
+![King Grandeir Manes.png](/img/user/Resources/King%20Grandeir%20Manes.png)
 
 **Arabella Manes**
-![Arabella Manes.png](/img/user/Arabella%20Manes.png)
+![Arabella Manes.png](/img/user/Resources/Arabella%20Manes.png)
