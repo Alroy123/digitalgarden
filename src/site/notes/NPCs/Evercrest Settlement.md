@@ -33,7 +33,7 @@ Charles Trumble:
 
 
 Reeny: 
-![Reeny.png](/img/user/Reeny.png)
+![Reeny.png](/img/user/Resources/Reeny.png)
 
 Sylia Oriren: 
-![Sylia Oriren.png](/img/user/Sylia%20Oriren.png)
+![Sylia Oriren.png](/img/user/Resources/Sylia%20Oriren.png)
