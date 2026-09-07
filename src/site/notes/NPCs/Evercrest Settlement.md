@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/evercrest-settlement/","created":"2026-06-18T20:19:27.878-04:00","updated":"2026-08-20T21:04:25.339-04:00","dg-note-properties":{"share":true}}
+{"dg-publish":true,"permalink":"/np-cs/evercrest-settlement/","created":"2026-06-18T20:19:27.878-04:00","updated":"2026-09-06T22:54:57.848-04:00","dg-note-properties":{"share":true}}
 ---
 
 
@@ -55,3 +55,27 @@ Reeny:
 
 Sylia Oriren: 
 ![Sylia Oriren.png](/img/user/Resources/Sylia%20Oriren.png)
+
+
+**Other Adventures in Evercrest**
+
+Ulfgrim Sibbisson Rootwalker:
+![Ulfgrim Sibbisson Rootwalker.png](/img/user/Resources/Ulfgrim%20Sibbisson%20Rootwalker.png)
+
+Sekrik:
+![Sekrik.png](/img/user/Resources/Sekrik.png)
+
+Trilga Ironbarge:
+![Trilga Ironbarge.png](/img/user/Resources/Trilga%20Ironbarge.png)
+
+Penelope Graves: 
+ ![Penelope Graves.png](/img/user/Resources/Penelope%20Graves.png)
+ 
+ Clark Provost:
+![Clark Provost.png](/img/user/Resources/Clark%20Provost.png)
+
+Risarria Stormcloak:
+![Risarria Stormcloak.png](/img/user/Resources/Risarria%20Stormcloak.png)
+
+Ezra Armar:
+![Ezra Armar.png](/img/user/Resources/Ezra%20Armar.png)
